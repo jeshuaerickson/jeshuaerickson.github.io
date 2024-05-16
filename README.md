@@ -20,7 +20,8 @@ Attack your employees! (Medium.com)</a>
 SANS Holiday Hack competition in 2021.
 I completely love this level of gamification for learning. If you've never participated in the SANS Holiday Hack Challenge, or even been aware that such a thing exists, please check it out! Don't worry if you can't figure stuff out right away. Just go in with an open mind and get ready to learn!</em>
 
-* <a href="https://jeshuaerickson.github.io/hh2021/">https://jeshuaerickson.github.io/hh2021/</a> (<a href="https://www.sans.org/mlp/holiday-hack-challenge-2023/winners-and-answers/">SANS Holiday Hack Super Honorable Mention 2021</a>)
+* <a href="https://jeshuaerickson.github.io/hh2021/">My Challenge Answers for Holiday Hack Challenge 2021</a> 
+* <a href="https://www.sans.org/mlp/holiday-hack-challenge-2023/winners-and-answers/">SANS Holiday Hack Winners</a>
 
 # Certifications
 * OSCP - 2023
