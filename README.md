@@ -14,9 +14,9 @@ Eliminating the Inefficiency of Work-in-Progress in Cybersecurity (Medium.com)</
 Attack your employees! (Medium.com)</a>
 
 
-# Holiday Hack 2021
+# Holiday Hack Challenge
 
-<em>The Holiday Hack Challenge gets its own section because I'm super proud of getting a super honorable mention award for the 
+<em>The Holiday Hack Challenge gets its own section because I'm super proud of achieving the "super honorable mention" designation for the 
 SANS Holiday Hack competition in 2021.
 I completely love this level of gamification for learning. If you've never participated in the SANS Holiday Hack Challenge, or even been aware that such a thing exists, please check it out! Don't worry if you can't figure stuff out right away. Just go in with an open mind and get ready to learn!</em>
 
