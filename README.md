@@ -3,7 +3,7 @@ My name is Jeshua Erickson. I work as a security architect.
 Before moving into security, I built a career out of web design, software development, database administration, business intelligence, data integrations, and data warehousing. 
 My hobbies include spending time with my family, writing, running, playing disc golf, bass, cell, violin, mandolin, octave mandolin, guitar, legal hacking, linux, etc.
 
-My earlier vocations included working as a newspaper carrier, pontoonist, canoe guide, college newspaper editor, radio DJ, hitchhiker, dry cleaning attendant, assistant manager at a bakery, a cook, a bus driver, floor supervisor in a homeless shelter, a busker, a singer songwriter, a bookstore coordinator, and an intern in DC.
+My earliest vocations included working as a newspaper carrier, pontoonist, canoe guide, college newspaper editor, radio DJ, hitchhiker, dry cleaning attendant, assistant manager at a bakery, a cook, a bus driver, floor supervisor in a homeless shelter, a busker, a singer songwriter, a bookstore coordinator, and an intern in DC.
 
 # Articles
 * <a href="https://medium.com/@jeshuaerickson/slow-productivity-and-cybersecurity-77e7c8cd1b88">
