@@ -24,3 +24,5 @@ I completely love this level of gamification for learning. If you've never parti
 # Certifications
 * OSCP - 2023
 * CISSP - 2024
+
+[[Sample Page Link]]
