@@ -1,6 +1,8 @@
 # Bio
 
-My name is Jeshua Erickson. I work as a security architect (currently focusing on application security). Before moving into security, I built a career out of web design, software development, database administration, business intelligence, data integrations, and data warehousing. My hobbies include spending time with my family, writing, running, playing disc golf, bass, cello, violin, mandolin, octave mandolin, guitar, legal hacking, Linux, etc.
+My name is Jeshua Erickson. I work as a security architect (currently focusing on application security). Past areas of security focus included vulnerability management, on-premises and cloud networking, cloud architecture, and operation technology (OT).
+
+Before moving into security, I built a career out of web design, software development, database administration, business intelligence, data integrations, and data warehousing. My hobbies include spending time with my family, writing, running, playing disc golf, bass, cello, violin, mandolin, octave mandolin, guitar, legal hacking, Linux, etc.
 
 My earliest vocations included working as a newspaper carrier, pontoonist, canoe guide, college newspaper editor, radio DJ, hitchhiker, dry cleaning attendant, assistant manager at a bakery, a cook, a bus driver, floor supervisor in a homeless shelter, a busker, a singer songwriter, a bookstore coordinator, and an intern in DC.
 
@@ -25,7 +27,7 @@ I completely love this level of gamification for learning. If you've never parti
 
 # Certifications
 
-* OSCP - 2023
-* CISSP - 2024
+* OSCP (Offsec Certified Professional) - 2023
+* CISSP (Certified Information Systems Security Professional) - 2024
 
-
+[about.md](about)
