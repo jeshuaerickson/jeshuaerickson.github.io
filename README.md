@@ -1,4 +1,4 @@
-{% include navigation.md %}
+{% include /navigation.md %}
 # Bio
 
 My name is Jeshua Erickson. I work as a security architect (currently focusing on application security). Past areas of security focus included vulnerability management, on-premises and cloud networking, cloud architecture, and operation technology (OT).
