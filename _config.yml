@@ -4,4 +4,6 @@ title: Jeshua Erickson
 description: A brief portfolio and bio
 url: https://jeshuaerickson.github.io # URL of your site
 baseurl: / # Only if site is hosted in a subdirectory
-# permalink: /:categories/:year/:month/:day/:title # Permalink style
+permalink: /:categories/:year/:month/:day/:title # Permalink style
+theme: jekyll-theme-minimal
+
