@@ -16,7 +16,6 @@ Eliminating the Inefficiency of Work-in-Progress in Cybersecurity (Medium.com)</
 * <a href="https://medium.com/sunday-solace/attack-your-employees-9a4fdaa928be">
 Attack your employees! (Medium.com)</a>
 
-
 # Holiday Hack Challenge
 
 <em>The Holiday Hack Challenge gets its own section because I'm super proud of achieving the "super honorable mention" designation for the 
@@ -31,4 +30,4 @@ I completely love this level of gamification for learning. If you've never parti
 * OSCP (Offsec Certified Professional) - 2023
 * CISSP (Certified Information Systems Security Professional) - 2024
 
-[about.md](about)
+
